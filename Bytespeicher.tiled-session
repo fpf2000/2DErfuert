@@ -6,12 +6,15 @@
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
+        "": {
+            "scaleInEditor": 1
+        },
         "Bytespeicher.json": {
             "scale": 0.75,
             "selectedLayer": 15,
             "viewCenter": {
-                "x": 494.6666666666666,
-                "y": 566.6666666666666
+                "x": 488,
+                "y": 556
             }
         },
         "Bytespeicher.json#bskonf": {
@@ -25,10 +28,12 @@
             "scaleInDock": 1
         },
         "Bytespeicher.json#chaos_zone_shared": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "Bytespeicher.json#housetileset": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "BytespeicherHaus.tsx": {
             "scaleInDock": 1,
@@ -132,10 +137,10 @@
         },
         "main.json": {
             "scale": 0.5,
-            "selectedLayer": 14,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 272,
-                "y": 662
+                "x": 270,
+                "y": 480
             }
         },
         "main.json#BytespeicherHaus": {
@@ -193,6 +198,7 @@
             "scaleInEditor": 1
         },
         "main.json#pipo-map001_at-yama3": {
+            "dynamicWrapping": false,
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
@@ -206,8 +212,8 @@
             "scale": 1.2850446428571427,
             "selectedLayer": 8,
             "viewCenter": {
-                "x": 335.3969081118638,
-                "y": 255.2440507208616
+                "x": 331.50599270453364,
+                "y": 251.35313531353137
             }
         },
         "makerspace.json#MS_TILES_ef": {
@@ -221,10 +227,13 @@
             "scaleInDock": 1
         },
         "makerspace.json#chaos_zone_shared": {
-            "scaleInDock": 1
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "makerspace.json#housetileset": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "makerspace.json#stuff": {
             "scaleInDock": 1
@@ -252,10 +261,10 @@
         "makerspace.json"
     ],
     "project": "Bytespeicher.tiled-project",
-    "property.type": "bool",
+    "property.type": "string",
     "recentFiles": [
-        "makerspace.json",
         "Bytespeicher.json",
+        "makerspace.json",
         "main.json",
         "tilesets/Kram.tsx",
         "tilesets/Erfurt_Grafik.tsx",

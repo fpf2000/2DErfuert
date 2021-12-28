@@ -252,6 +252,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"pipo-map001_at-umi",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"We used following tilesets:   \nfrom pipoya:  \nhttps:\/\/pipoya.itch.io\/pipoya-free-rpg-world-tileset-32x32-40x40-48x48  \nhttps:\/\/pipoya.itch.io\/pipoya-rpg-tileset-32x32  \n\nfrom finalbossblues:  \nhttps:\/\/finalbossblues.itch.io\/cloud-city-tileset  \n\nfrom beeler:  \nhttps:\/\/beeler.itch.io\/top-down-earth-tileset  \n\na bonfire from here:  \nhttps:\/\/www.ascensiongamedev.com\/topic\/1042-maps-tutorial-compilation\/?do=findComment&comment=17176\n\nand from hanzo kimura, edited by COAD, Benben:  \nhttps:\/\/rpgmcommunity.forumotion.com\/t63-valkyrie-stories-tileset\n"
+                }],
          "spacing":0,
          "tilecount":48,
          "tileheight":32,
@@ -265,6 +271,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"pipo-map001",
+         "properties":[
+                {
+                 "name":"t",
+                 "type":"string",
+                 "value":"We used following tilesets:   \nfrom pipoya:  \nhttps:\/\/pipoya.itch.io\/pipoya-free-rpg-world-tileset-32x32-40x40-48x48  \nhttps:\/\/pipoya.itch.io\/pipoya-rpg-tileset-32x32  \n\nfrom finalbossblues:  \nhttps:\/\/finalbossblues.itch.io\/cloud-city-tileset  \n\nfrom beeler:  \nhttps:\/\/beeler.itch.io\/top-down-earth-tileset  \n\na bonfire from here:  \nhttps:\/\/www.ascensiongamedev.com\/topic\/1042-maps-tutorial-compilation\/?do=findComment&comment=17176\n\nand from hanzo kimura, edited by COAD, Benben:  \nhttps:\/\/rpgmcommunity.forumotion.com\/t63-valkyrie-stories-tileset\n"
+                }],
          "spacing":0,
          "tilecount":136,
          "tileheight":32,
@@ -278,6 +290,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"pipo-map001_at-yama3",
+         "properties":[
+                {
+                 "name":"tilesetCopyright\n",
+                 "type":"string",
+                 "value":"We used following tilesets:   \nfrom pipoya:  \nhttps:\/\/pipoya.itch.io\/pipoya-free-rpg-world-tileset-32x32-40x40-48x48  \nhttps:\/\/pipoya.itch.io\/pipoya-rpg-tileset-32x32  \n\nfrom finalbossblues:  \nhttps:\/\/finalbossblues.itch.io\/cloud-city-tileset  \n\nfrom beeler:  \nhttps:\/\/beeler.itch.io\/top-down-earth-tileset  \n\na bonfire from here:  \nhttps:\/\/www.ascensiongamedev.com\/topic\/1042-maps-tutorial-compilation\/?do=findComment&comment=17176\n\nand from hanzo kimura, edited by COAD, Benben:  \nhttps:\/\/rpgmcommunity.forumotion.com\/t63-valkyrie-stories-tileset\n"
+                }],
          "spacing":0,
          "tilecount":48,
          "tileheight":32,
@@ -291,6 +309,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"pipo-map001_at-tuti",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":""
+                }],
          "spacing":0,
          "tilecount":48,
          "tileheight":32,
@@ -304,6 +328,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"pipo-map001_at-kusa",
+         "properties":[
+                {
+                 "name":"tilesetCopyright\n",
+                 "type":"string",
+                 "value":"# Tilesets\nWe used following tilesets:   \nfrom pipoya:  \nhttps:\/\/pipoya.itch.io\/pipoya-free-rpg-world-tileset-32x32-40x40-48x48  \nhttps:\/\/pipoya.itch.io\/pipoya-rpg-tileset-32x32  \n\nfrom finalbossblues:  \nhttps:\/\/finalbossblues.itch.io\/cloud-city-tileset  \n\nfrom beeler:  \nhttps:\/\/beeler.itch.io\/top-down-earth-tileset  \n\na bonfire from here:  \nhttps:\/\/www.ascensiongamedev.com\/topic\/1042-maps-tutorial-compilation\/?do=findComment&comment=17176\n\nand from hanzo kimura, edited by COAD, Benben:  \nhttps:\/\/rpgmcommunity.forumotion.com\/t63-valkyrie-stories-tileset"
+                }],
          "spacing":0,
          "tilecount":48,
          "tileheight":32,
@@ -317,6 +347,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"[Base]BaseChip_pipo+",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"We used following tilesets:   \nfrom pipoya:  \nhttps:\/\/pipoya.itch.io\/pipoya-free-rpg-world-tileset-32x32-40x40-48x48  \nhttps:\/\/pipoya.itch.io\/pipoya-rpg-tileset-32x32  \n\nfrom finalbossblues:  \nhttps:\/\/finalbossblues.itch.io\/cloud-city-tileset  \n\nfrom beeler:  \nhttps:\/\/beeler.itch.io\/top-down-earth-tileset  \n\na bonfire from here:  \nhttps:\/\/www.ascensiongamedev.com\/topic\/1042-maps-tutorial-compilation\/?do=findComment&comment=17176\n\nand from hanzo kimura, edited by COAD, Benben:  \nhttps:\/\/rpgmcommunity.forumotion.com\/t63-valkyrie-stories-tileset\n"
+                }],
          "spacing":0,
          "tilecount":904,
          "tileheight":32,
@@ -367,6 +403,12 @@
          "imagewidth":160,
          "margin":0,
          "name":"bg_bluesky",
+         "properties":[
+                {
+                 "name":"tilesetCopyright\n",
+                 "type":"string",
+                 "value":""
+                }],
          "spacing":0,
          "tilecount":25,
          "tileheight":32,
@@ -458,6 +500,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"cloud_tileA5_2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":""
+                }],
          "spacing":0,
          "tilecount":128,
          "tileheight":32,

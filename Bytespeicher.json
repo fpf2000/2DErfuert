@@ -295,6 +295,11 @@
                  "name":"collides",
                  "type":"bool",
                  "value":true
+                }, 
+                {
+                 "name":"tilesetCopyright\n",
+                 "type":"string",
+                 "value":""
                 }],
          "spacing":0,
          "tilecount":112,
@@ -2493,6 +2498,12 @@
          "imagewidth":1024,
          "margin":0,
          "name":"chaos_zone_shared",
+         "properties":[
+                {
+                 "name":"tilesetCopyright\n",
+                 "type":"string",
+                 "value":""
+                }],
          "spacing":0,
          "tilecount":2048,
          "tileheight":32,

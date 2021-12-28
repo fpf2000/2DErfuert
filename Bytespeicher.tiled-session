@@ -8,7 +8,7 @@
     "fileStates": {
         "Bytespeicher.json": {
             "scale": 0.75,
-            "selectedLayer": 2,
+            "selectedLayer": 15,
             "viewCenter": {
                 "x": 494.6666666666666,
                 "y": 566.6666666666666
@@ -139,6 +139,7 @@
             }
         },
         "main.json#BytespeicherHaus": {
+            "dynamicWrapping": false,
             "scaleInDock": 1
         },
         "main.json#Erfurt_Grafik": {
@@ -206,7 +207,7 @@
             "selectedLayer": 8,
             "viewCenter": {
                 "x": 335.3969081118638,
-                "y": 256.0222338023276
+                "y": 255.2440507208616
             }
         },
         "makerspace.json#MS_TILES_ef": {
@@ -251,7 +252,7 @@
         "makerspace.json"
     ],
     "project": "Bytespeicher.tiled-project",
-    "property.type": "int",
+    "property.type": "bool",
     "recentFiles": [
         "makerspace.json",
         "Bytespeicher.json",

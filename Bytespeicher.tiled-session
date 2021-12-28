@@ -1,19 +1,21 @@
 {
-    "activeFile": "",
+    "activeFile": "Bytespeicher.json",
     "expandedProjectPaths": [
+        ".",
         "tilesets"
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
         "Bytespeicher.json": {
             "scale": 1.5781874999999999,
-            "selectedLayer": 17,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 363.7083679854263,
-                "y": 529.0879569125975
+                "x": 494.8714902380104,
+                "y": 568.3735297611976
             }
         },
         "Bytespeicher.json#bskonf": {
+            "dynamicWrapping": false,
             "scaleInDock": 1
         },
         "Bytespeicher.json#bskonffurn": {
@@ -132,8 +134,8 @@
             "scale": 1.5,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 1174,
-                "y": 484.66666666666663
+                "x": 688,
+                "y": 576.6666666666666
             }
         },
         "main.json#BytespeicherHaus": {
@@ -161,6 +163,7 @@
             "scaleInDock": 1
         },
         "main.json#chaos_zone_shared": {
+            "dynamicWrapping": false,
             "scaleInDock": 1
         },
         "main.json#cloud_tileA5_2": {
@@ -201,7 +204,7 @@
             "selectedLayer": 0,
             "viewCenter": {
                 "x": 335.3969081118638,
-                "y": 256.02223380232766
+                "y": 255.2440507208616
             }
         },
         "makerspace.json#MS_TILES_ef": {
@@ -241,15 +244,18 @@
     },
     "last.imagePath": "C:/Users/fpf20/Documents/Projects/2DErfurt",
     "openFiles": [
+        "main.json",
+        "Bytespeicher.json",
+        "makerspace.json"
     ],
     "project": "Bytespeicher.tiled-project",
     "recentFiles": [
         "main.json",
+        "makerspace.json",
         "Bytespeicher.json",
         "tilesets/Kram.tsx",
         "tilesets/Erfurt_Grafik.tsx",
         "BytespeicherHaus.tsx",
-        "makerspace.json",
         "tilesets/BS_TILES_256X256.tsx",
         "C:/Users/fpf20/Documents/Projects/Bytespeicher_WorkAdventure_RC3/Bytespeicher.json",
         "C:/Users/fpf20/Documents/Projects/Bytespeicher_WorkAdventure_RC3/main.json",

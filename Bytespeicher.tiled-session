@@ -1,0 +1,259 @@
+{
+    "activeFile": "Bytespeicher.json",
+    "expandedProjectPaths": [
+        "tilesets",
+        "."
+    ],
+    "file.lastUsedOpenFilter": "Alle Dateien (*)",
+    "fileStates": {
+        "Bytespeicher.json": {
+            "scale": 1.5781874999999999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 136.54904756247277,
+                "y": 344.3824006970021
+            }
+        },
+        "Bytespeicher.json#bskonf": {
+            "scaleInDock": 1
+        },
+        "Bytespeicher.json#bskonffurn": {
+            "scaleInDock": 1
+        },
+        "Bytespeicher.json#bskonftop": {
+            "scaleInDock": 1
+        },
+        "Bytespeicher.json#chaos_zone_shared": {
+            "scaleInDock": 1
+        },
+        "Bytespeicher.json#housetileset": {
+            "scaleInDock": 1
+        },
+        "BytespeicherHaus.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/fpf20/Documents/Projects/Bytespeicher_WorkAdventure_RC3/Bytespeicher.json": {
+            "scale": 0.4836189516129032,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 690.6263678999479,
+                "y": 400.10838978634706
+            }
+        },
+        "C:/Users/fpf20/Documents/Projects/Bytespeicher_WorkAdventure_RC3/Bytespeicher.json#bskonf": {
+            "scaleInDock": 1
+        },
+        "C:/Users/fpf20/Documents/Projects/Bytespeicher_WorkAdventure_RC3/Bytespeicher.json#bskonffurn": {
+            "scaleInDock": 1
+        },
+        "C:/Users/fpf20/Documents/Projects/Bytespeicher_WorkAdventure_RC3/Bytespeicher.json#bskonftop": {
+            "scaleInDock": 1
+        },
+        "C:/Users/fpf20/Documents/Projects/Bytespeicher_WorkAdventure_RC3/Bytespeicher.json#chaos_zone_shared": {
+            "scaleInDock": 1
+        },
+        "C:/Users/fpf20/Documents/Projects/Bytespeicher_WorkAdventure_RC3/Bytespeicher.json#housetileset": {
+            "scaleInDock": 1
+        },
+        "C:/Users/fpf20/Documents/Projects/Bytespeicher_WorkAdventure_RC3/main.json": {
+            "scale": 0.7139136904761905,
+            "selectedLayer": 17,
+            "viewCenter": {
+                "x": 334.774361646691,
+                "y": 257.03387180823347
+            }
+        },
+        "C:/Users/fpf20/Documents/Projects/Bytespeicher_WorkAdventure_RC3/main.json#MS_TILES_ef": {
+            "scaleInDock": 1
+        },
+        "C:/Users/fpf20/Documents/Projects/Bytespeicher_WorkAdventure_RC3/main.json#bskonf": {
+            "scaleInDock": 1
+        },
+        "C:/Users/fpf20/Documents/Projects/Bytespeicher_WorkAdventure_RC3/main.json#bskonffurn": {
+            "scaleInDock": 1
+        },
+        "C:/Users/fpf20/Documents/Projects/Bytespeicher_WorkAdventure_RC3/main.json#chaos_zone_shared": {
+            "scaleInDock": 1
+        },
+        "C:/Users/fpf20/Documents/Projects/Bytespeicher_WorkAdventure_RC3/main.json#housetileset": {
+            "scaleInDock": 1
+        },
+        "C:/Users/fpf20/Documents/Projects/Bytespeicher_WorkAdventure_RC3/main.json#stuff": {
+            "scaleInDock": 1
+        },
+        "C:/Users/fpf20/Documents/Projects/Bytespeicher_WorkAdventure_RC3/main.json#worldExit": {
+            "scaleInDock": 1
+        },
+        "erfurt.json": {
+            "scale": 0.75,
+            "selectedLayer": 15,
+            "viewCenter": {
+                "x": 874.6666666666665,
+                "y": 224
+            }
+        },
+        "erfurt.json#BytespeicherHaus": {
+            "scaleInDock": 1
+        },
+        "erfurt.json#Erfurt_Grafik": {
+            "scaleInDock": 1
+        },
+        "erfurt.json#[Base]BaseChip_pipo+": {
+            "scaleInDock": 1
+        },
+        "erfurt.json#bg_bluesky": {
+            "scaleInDock": 1
+        },
+        "erfurt.json#bskonffurn": {
+            "scaleInDock": 1
+        },
+        "erfurt.json#chaos_zone_shared": {
+            "scaleInDock": 1
+        },
+        "erfurt.json#cloud_tileA5_2": {
+            "scaleInDock": 1
+        },
+        "erfurt.json#pipo-map001": {
+            "scaleInDock": 1
+        },
+        "erfurt.json#pipo-map001_at-kusa": {
+            "scaleInDock": 1
+        },
+        "erfurt.json#pipo-map001_at-tuti": {
+            "scaleInDock": 1
+        },
+        "erfurt.json#pipo-map001_at-umi": {
+            "scaleInDock": 1
+        },
+        "erfurt.json#pipo-map001_at-yama3": {
+            "scaleInDock": 1
+        },
+        "main.json": {
+            "scale": 0.5,
+            "selectedLayer": 8,
+            "viewCenter": {
+                "x": 1279,
+                "y": 673
+            }
+        },
+        "main.json#BytespeicherHaus": {
+            "scaleInDock": 1
+        },
+        "main.json#Erfurt_Grafik": {
+            "scaleInDock": 1
+        },
+        "main.json#MS_TILES_ef": {
+            "scaleInDock": 1
+        },
+        "main.json#[Base]BaseChip_pipo+": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "main.json#bg_bluesky": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "main.json#bskonf": {
+            "scaleInDock": 1
+        },
+        "main.json#bskonffurn": {
+            "scaleInDock": 1
+        },
+        "main.json#chaos_zone_shared": {
+            "scaleInDock": 1
+        },
+        "main.json#cloud_tileA5_2": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "main.json#housetileset": {
+            "scaleInDock": 1
+        },
+        "main.json#pipo-map001": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "main.json#pipo-map001_at-kusa": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "main.json#pipo-map001_at-tuti": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "main.json#pipo-map001_at-umi": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "main.json#pipo-map001_at-yama3": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "main.json#stuff": {
+            "scaleInDock": 1
+        },
+        "main.json#worldExit": {
+            "scaleInDock": 1
+        },
+        "makerspace.json": {
+            "scale": 1.2850446428571427,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 335.3969081118639,
+                "y": 256.4113253430606
+            }
+        },
+        "makerspace.json#MS_TILES_ef": {
+            "scaleInDock": 1
+        },
+        "makerspace.json#bskonf": {
+            "scaleInDock": 1
+        },
+        "makerspace.json#bskonffurn": {
+            "scaleInDock": 1
+        },
+        "makerspace.json#chaos_zone_shared": {
+            "scaleInDock": 1
+        },
+        "makerspace.json#housetileset": {
+            "scaleInDock": 1
+        },
+        "makerspace.json#stuff": {
+            "scaleInDock": 1
+        },
+        "makerspace.json#worldExit": {
+            "scaleInDock": 1
+        },
+        "tilesets/BS_TILES_256X256.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tilesets/Erfurt_Grafik.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tilesets/Kram.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "C:/Users/fpf20/Documents/Projects/2DErfurt",
+    "openFiles": [
+        "Bytespeicher.json",
+        "main.json"
+    ],
+    "project": "Bytespeicher.tiled-project",
+    "recentFiles": [
+        "main.json",
+        "Bytespeicher.json",
+        "tilesets/Kram.tsx",
+        "tilesets/Erfurt_Grafik.tsx",
+        "BytespeicherHaus.tsx",
+        "makerspace.json",
+        "tilesets/BS_TILES_256X256.tsx",
+        "C:/Users/fpf20/Documents/Projects/Bytespeicher_WorkAdventure_RC3/Bytespeicher.json",
+        "C:/Users/fpf20/Documents/Projects/Bytespeicher_WorkAdventure_RC3/main.json",
+        "erfurt.json"
+    ]
+}

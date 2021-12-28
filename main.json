@@ -354,6 +354,44 @@
          "spacing":0,
          "tilecount":904,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":217,
+                 "objectgroup":
+                    {
+                     "draworder":"index",
+                     "id":2,
+                     "name":"",
+                     "objects":[
+                            {
+                             "height":5.40700993264071,
+                             "id":1,
+                             "name":"",
+                             "rotation":0,
+                             "type":"",
+                             "visible":true,
+                             "width":5.33394223084827,
+                             "x":10.5217490581117,
+                             "y":1.60748943943373
+                            }, 
+                            {
+                             "height":23.6008676789588,
+                             "id":2,
+                             "name":"",
+                             "rotation":0,
+                             "type":"",
+                             "visible":true,
+                             "width":11.0332229706587,
+                             "x":10.5948167599041,
+                             "y":0.0730677017924421
+                            }],
+                     "opacity":1,
+                     "type":"objectgroup",
+                     "visible":true,
+                     "x":0,
+                     "y":0
+                    }
+                }],
          "tilewidth":32
         }, 
         {

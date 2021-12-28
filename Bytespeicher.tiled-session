@@ -1,5 +1,5 @@
 {
-    "activeFile": "Bytespeicher.json",
+    "activeFile": "main.json",
     "expandedProjectPaths": [
         ".",
         "tilesets"
@@ -132,7 +132,7 @@
         },
         "main.json": {
             "scale": 0.5,
-            "selectedLayer": 5,
+            "selectedLayer": 14,
             "viewCenter": {
                 "x": 272,
                 "y": 662
@@ -150,7 +150,7 @@
         "main.json#[Base]BaseChip_pipo+": {
             "dynamicWrapping": true,
             "scaleInDock": 1,
-            "scaleInEditor": 1
+            "scaleInEditor": 0.75
         },
         "main.json#bg_bluesky": {
             "dynamicWrapping": false,
@@ -168,6 +168,7 @@
             "scaleInDock": 1
         },
         "main.json#cloud_tileA5_2": {
+            "dynamicWrapping": false,
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
@@ -250,10 +251,11 @@
         "makerspace.json"
     ],
     "project": "Bytespeicher.tiled-project",
+    "property.type": "int",
     "recentFiles": [
-        "main.json",
         "makerspace.json",
         "Bytespeicher.json",
+        "main.json",
         "tilesets/Kram.tsx",
         "tilesets/Erfurt_Grafik.tsx",
         "BytespeicherHaus.tsx",

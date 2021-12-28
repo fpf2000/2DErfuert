@@ -7,10 +7,10 @@
     "fileStates": {
         "Bytespeicher.json": {
             "scale": 1.5781874999999999,
-            "selectedLayer": 0,
+            "selectedLayer": 17,
             "viewCenter": {
-                "x": 364.34200625717796,
-                "y": 530.3552334561008
+                "x": 363.7083679854263,
+                "y": 529.0879569125975
             }
         },
         "Bytespeicher.json#bskonf": {
@@ -198,7 +198,7 @@
         },
         "makerspace.json": {
             "scale": 1.2850446428571427,
-            "selectedLayer": 2,
+            "selectedLayer": 0,
             "viewCenter": {
                 "x": 335.3969081118638,
                 "y": 256.02223380232766

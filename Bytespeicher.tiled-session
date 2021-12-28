@@ -130,10 +130,10 @@
         },
         "main.json": {
             "scale": 1.5,
-            "selectedLayer": 14,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 927.3333333333333,
-                "y": 839.3333333333333
+                "x": 1063.3333333333333,
+                "y": 545.3333333333333
             }
         },
         "main.json#BytespeicherHaus": {
@@ -146,6 +146,7 @@
             "scaleInDock": 1
         },
         "main.json#[Base]BaseChip_pipo+": {
+            "dynamicWrapping": true,
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
@@ -197,7 +198,7 @@
         },
         "makerspace.json": {
             "scale": 1.2850446428571427,
-            "selectedLayer": 0,
+            "selectedLayer": 7,
             "viewCenter": {
                 "x": 336.17509119332993,
                 "y": 256.8004168837937

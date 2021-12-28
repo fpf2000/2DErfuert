@@ -78,7 +78,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/main.json#reentry-erfurt"
+                 "value":"makerspace.json#entrance"
                 }],
          "type":"tilelayer",
          "visible":true,

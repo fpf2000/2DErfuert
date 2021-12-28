@@ -139,7 +139,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"main.json#reentry-makerspace"
+                 "value":"main.json#start_erfurt"
                 }],
          "type":"tilelayer",
          "visible":true,

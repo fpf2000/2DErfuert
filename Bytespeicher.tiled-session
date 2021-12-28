@@ -8,7 +8,7 @@
     "fileStates": {
         "Bytespeicher.json": {
             "scale": 0.75,
-            "selectedLayer": 0,
+            "selectedLayer": 2,
             "viewCenter": {
                 "x": 494.6666666666666,
                 "y": 566.6666666666666
@@ -132,10 +132,10 @@
         },
         "main.json": {
             "scale": 0.5,
-            "selectedLayer": 1,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 274,
-                "y": 664
+                "x": 272,
+                "y": 662
             }
         },
         "main.json#BytespeicherHaus": {
@@ -153,6 +153,7 @@
             "scaleInEditor": 1
         },
         "main.json#bg_bluesky": {
+            "dynamicWrapping": false,
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
@@ -201,7 +202,7 @@
         },
         "makerspace.json": {
             "scale": 1.2850446428571427,
-            "selectedLayer": 2,
+            "selectedLayer": 8,
             "viewCenter": {
                 "x": 335.3969081118638,
                 "y": 256.0222338023276

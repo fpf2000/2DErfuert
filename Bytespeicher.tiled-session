@@ -7,10 +7,10 @@
     "fileStates": {
         "Bytespeicher.json": {
             "scale": 1.5781874999999999,
-            "selectedLayer": 0,
+            "selectedLayer": 14,
             "viewCenter": {
-                "x": 237.931171042731,
-                "y": 344.06558156112624
+                "x": 364.34200625717796,
+                "y": 530.3552334561008
             }
         },
         "Bytespeicher.json#bskonf": {
@@ -129,11 +129,11 @@
             "scaleInDock": 1
         },
         "main.json": {
-            "scale": 0.5,
-            "selectedLayer": 8,
+            "scale": 1.5,
+            "selectedLayer": 14,
             "viewCenter": {
-                "x": 687,
-                "y": 576
+                "x": 927.3333333333333,
+                "y": 839.3333333333333
             }
         },
         "main.json#BytespeicherHaus": {
@@ -242,8 +242,8 @@
     ],
     "project": "Bytespeicher.tiled-project",
     "recentFiles": [
-        "Bytespeicher.json",
         "main.json",
+        "Bytespeicher.json",
         "tilesets/Kram.tsx",
         "tilesets/Erfurt_Grafik.tsx",
         "BytespeicherHaus.tsx",

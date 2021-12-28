@@ -7,7 +7,7 @@
     "fileStates": {
         "Bytespeicher.json": {
             "scale": 1.5781874999999999,
-            "selectedLayer": 17,
+            "selectedLayer": 0,
             "viewCenter": {
                 "x": 364.34200625717796,
                 "y": 530.3552334561008
@@ -130,10 +130,10 @@
         },
         "main.json": {
             "scale": 1.5,
-            "selectedLayer": 2,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 1063.3333333333333,
-                "y": 545.3333333333333
+                "x": 1174,
+                "y": 484.66666666666663
             }
         },
         "main.json#BytespeicherHaus": {
@@ -198,16 +198,17 @@
         },
         "makerspace.json": {
             "scale": 1.2850446428571427,
-            "selectedLayer": 7,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 336.17509119332993,
-                "y": 256.8004168837937
+                "x": 335.3969081118638,
+                "y": 256.02223380232766
             }
         },
         "makerspace.json#MS_TILES_ef": {
             "scaleInDock": 1
         },
         "makerspace.json#bskonf": {
+            "dynamicWrapping": false,
             "scaleInDock": 1
         },
         "makerspace.json#bskonffurn": {

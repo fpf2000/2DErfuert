@@ -7,11 +7,11 @@
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
         "Bytespeicher.json": {
-            "scale": 1.5781874999999999,
-            "selectedLayer": 2,
+            "scale": 0.75,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 493.60421369450717,
-                "y": 567.739891489446
+                "x": 494.6666666666666,
+                "y": 566.6666666666666
             }
         },
         "Bytespeicher.json#bskonf": {
@@ -131,11 +131,11 @@
             "scaleInDock": 1
         },
         "main.json": {
-            "scale": 1.5,
-            "selectedLayer": 12,
+            "scale": 0.5,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 273.33333333333326,
-                "y": 844.6666666666665
+                "x": 274,
+                "y": 664
             }
         },
         "main.json#BytespeicherHaus": {

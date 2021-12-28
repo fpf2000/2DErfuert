@@ -16,7 +16,7 @@ A WorkAdventure map to be used during the rc3
 - export image preview (also main folder) of each room
 - make sure all paths to the tilesets are relative in the .json
 - push to github
-- open https://wa.tabascoeye.de/_/global/raw.githubusercontent.com/Bytespeicher/Bytespeicher_WorkAdventure_RC3/main/main.json
+- open https://wa.tabascoeye.de/_/global/raw.githubusercontent.com/fpf2000/2DErfurt/main/main.json
 
 ## Get started and try your map from localhost
 - Get a local http server which allows cors for all requests

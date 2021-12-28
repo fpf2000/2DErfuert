@@ -1,8 +1,7 @@
 {
-    "activeFile": "Bytespeicher.json",
+    "activeFile": "",
     "expandedProjectPaths": [
-        "tilesets",
-        "."
+        "tilesets"
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
@@ -10,8 +9,8 @@
             "scale": 1.5781874999999999,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 136.54904756247277,
-                "y": 344.3824006970021
+                "x": 237.931171042731,
+                "y": 344.06558156112624
             }
         },
         "Bytespeicher.json#bskonf": {
@@ -133,8 +132,8 @@
             "scale": 0.5,
             "selectedLayer": 8,
             "viewCenter": {
-                "x": 1279,
-                "y": 673
+                "x": 687,
+                "y": 576
             }
         },
         "main.json#BytespeicherHaus": {
@@ -240,13 +239,11 @@
     },
     "last.imagePath": "C:/Users/fpf20/Documents/Projects/2DErfurt",
     "openFiles": [
-        "Bytespeicher.json",
-        "main.json"
     ],
     "project": "Bytespeicher.tiled-project",
     "recentFiles": [
-        "main.json",
         "Bytespeicher.json",
+        "main.json",
         "tilesets/Kram.tsx",
         "tilesets/Erfurt_Grafik.tsx",
         "BytespeicherHaus.tsx",

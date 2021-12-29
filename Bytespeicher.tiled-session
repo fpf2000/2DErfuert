@@ -10,11 +10,11 @@
             "scaleInEditor": 1
         },
         "Bytespeicher.json": {
-            "scale": 2,
-            "selectedLayer": 1,
+            "scale": 0.75,
+            "selectedLayer": 15,
             "viewCenter": {
-                "x": 20.75,
-                "y": 474.5
+                "x": 227.33333333333331,
+                "y": 352
             }
         },
         "Bytespeicher.json#bskonf": {

@@ -186,11 +186,11 @@
             "scaleInDock": 1
         },
         "main.json": {
-            "scale": 3,
-            "selectedLayer": 11,
+            "scale": 0.5,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 189.5,
-                "y": 829.6666666666666
+                "x": 723,
+                "y": 828
             }
         },
         "main.json#BytespeicherHaus": {
@@ -265,7 +265,7 @@
         },
         "makerspace.json": {
             "scale": 1.2850446428571427,
-            "selectedLayer": 6,
+            "selectedLayer": 0,
             "viewCenter": {
                 "x": 176.25846795205837,
                 "y": 442.78617335417755

@@ -10,11 +10,11 @@
             "scaleInEditor": 1
         },
         "Bytespeicher.json": {
-            "scale": 0.75,
-            "selectedLayer": 9,
+            "scale": 0.5,
+            "selectedLayer": 14,
             "viewCenter": {
-                "x": 485.33333333333337,
-                "y": 552
+                "x": 673,
+                "y": 494
             }
         },
         "Bytespeicher.json#bskonf": {
@@ -23,10 +23,12 @@
             "scaleInEditor": 1
         },
         "Bytespeicher.json#bskonffurn": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "Bytespeicher.json#bskonftop": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "Bytespeicher.json#chaos_zone_shared": {
             "scaleInDock": 1,
@@ -263,18 +265,21 @@
             "selectedLayer": 0,
             "viewCenter": {
                 "x": 176.25846795205837,
-                "y": 250.57495223206533
+                "y": 244.349487580337
             }
         },
         "makerspace.json#MS_TILES_ef": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "makerspace.json#bskonf": {
             "dynamicWrapping": false,
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "makerspace.json#bskonffurn": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "makerspace.json#chaos_zone_shared": {
             "dynamicWrapping": false,
@@ -286,11 +291,13 @@
             "scaleInEditor": 1
         },
         "makerspace.json#stuff": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "makerspace.json#worldExit": {
             "dynamicWrapping": false,
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "tilesets/BS_TILES_256X256.tsx": {
             "scaleInDock": 1,
@@ -313,10 +320,10 @@
     "project": "Bytespeicher.tiled-project",
     "property.type": "string",
     "recentFiles": [
-        "C:/Users/fpf20/Documents/Projects/wa-event/main.json",
-        "Bytespeicher.json",
         "makerspace.json",
+        "Bytespeicher.json",
         "main.json",
+        "C:/Users/fpf20/Documents/Projects/wa-event/main.json",
         "BytespeicherHaus.tsx",
         "tilesets/Kram.tsx",
         "tilesets/Erfurt_Grafik.tsx",

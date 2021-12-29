@@ -273,14 +273,19 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiRoom",
+                 "name":"openWebsite",
                  "type":"string",
-                 "value":"Bytespeicher"
+                 "value":"https:\/\/meet.jit.si\/bytespeicher"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
                  "type":"string",
-                 "value":"onaction"
+                 "value":"oneaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"press SPACE to open Website"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -303,6 +308,27 @@
  "nextlayerid":20,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"CC by SA Verein zur Foerderung von Technikkultur Erfurt, fpf2000, Chaos, Co"
+        }, 
+        {
+         "name":"mapDescription",
+         "type":"string",
+         "value":"bytespeicher_bytespeicher"
+        }, 
+        {
+         "name":"mapLink",
+         "type":"string",
+         "value":"https:\/\/github.com\/fpf2000\/2DErfurt.git"
+        }, 
+        {
+         "name":"mapName",
+         "type":"string",
+         "value":"bytespeicher"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,
@@ -317,14 +343,9 @@
          "name":"housetileset",
          "properties":[
                 {
-                 "name":"collides",
-                 "type":"bool",
-                 "value":true
-                }, 
-                {
-                 "name":"tilesetCopyright\n",
+                 "name":"tilesetCopyright",
                  "type":"string",
-                 "value":""
+                 "value":"CC by Houstile\n\nfrom pipoya pipoya.itch.io\nfrom finalbossblueshttps:\/\/finalbossblues.itch.io\nfrom beeler beeler.itch.io\nfrom bonfire ascensiongamedev.com\nfrom nand  hanzo kimura, edited by COAD, Benben: "
                 }],
          "spacing":0,
          "tilecount":112,
@@ -430,6 +451,12 @@
          "imagewidth":962,
          "margin":0,
          "name":"bskonf",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC By Chaos"
+                }],
          "spacing":0,
          "tilecount":450,
          "tileheight":32,
@@ -1875,6 +1902,12 @@
          "imagewidth":962,
          "margin":0,
          "name":"bskonftop",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC by Chaos"
+                }],
          "spacing":0,
          "tilecount":450,
          "tileheight":32,
@@ -1888,6 +1921,12 @@
          "imagewidth":962,
          "margin":0,
          "name":"bskonffurn",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC by Chaos"
+                }],
          "spacing":0,
          "tilecount":450,
          "tileheight":32,
@@ -2534,9 +2573,9 @@
          "name":"chaos_zone_shared",
          "properties":[
                 {
-                 "name":"tilesetCopyright\n",
+                 "name":"tilesetCopyright",
                  "type":"string",
-                 "value":""
+                 "value":"CC by Chaoszone"
                 }],
          "spacing":0,
          "tilecount":2048,

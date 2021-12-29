@@ -398,6 +398,27 @@
  "nextlayerid":20,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"CC by SA Verein zur Foerderung von Technikkultur Erfurt, fpf2000, & Co"
+        }, 
+        {
+         "name":"mapDescription",
+         "type":"string",
+         "value":"bytespeicher_makerspace"
+        }, 
+        {
+         "name":"mapLink",
+         "type":"string",
+         "value":"https:\/\/github.com\/fpf2000\/2DErfurt.git"
+        }, 
+        {
+         "name":"mapName",
+         "type":"string",
+         "value":"makerspace"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,
@@ -412,12 +433,7 @@
          "name":"housetileset",
          "properties":[
                 {
-                 "name":"collides",
-                 "type":"bool",
-                 "value":true
-                }, 
-                {
-                 "name":"tilesetCopyright\n",
+                 "name":"tilesetCopyright",
                  "type":"string",
                  "value":"We used following tilesets:   \nfrom pipoya:  \nhttps:\/\/pipoya.itch.io\/pipoya-free-rpg-world-tileset-32x32-40x40-48x48  \nhttps:\/\/pipoya.itch.io\/pipoya-rpg-tileset-32x32  \n\nfrom finalbossblues:  \nhttps:\/\/finalbossblues.itch.io\/cloud-city-tileset  \n\nfrom beeler:  \nhttps:\/\/beeler.itch.io\/top-down-earth-tileset  \n\na bonfire from here:  \nhttps:\/\/www.ascensiongamedev.com\/topic\/1042-maps-tutorial-compilation\/?do=findComment&comment=17176\n\nand from hanzo kimura, edited by COAD, Benben:  \nhttps:\/\/rpgmcommunity.forumotion.com\/t63-valkyrie-stories-tileset\n"
                 }],
@@ -425,6 +441,15 @@
          "tilecount":112,
          "tileheight":32,
          "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"CC By"
+                        }]
+                }, 
                 {
                  "id":30,
                  "properties":[
@@ -525,6 +550,12 @@
          "imagewidth":962,
          "margin":0,
          "name":"bskonf",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"\nCC by SA Verein zur Foerderung von Technikkultur Erfurt, fpf2000, & Co"
+                }],
          "spacing":0,
          "tilecount":450,
          "tileheight":32,
@@ -688,6 +719,15 @@
          "tileheight":32,
          "tiles":[
                 {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"\nCC by SA Verein zur Foerderung von Technikkultur Erfurt, fpf2000, & Co"
+                        }]
+                }, 
+                {
                  "id":159,
                  "properties":[
                         {
@@ -742,6 +782,16 @@
          "spacing":0,
          "tilecount":2048,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"CC by ChaosZone"
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
@@ -752,6 +802,12 @@
          "imagewidth":128,
          "margin":0,
          "name":"MS_TILES_ef",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC by SA Verein zur Foerderung von Technikkultur Erfurt, fpf2000, & Co"
+                }],
          "spacing":0,
          "tilecount":16,
          "tileheight":32,
@@ -768,6 +824,16 @@
          "spacing":0,
          "tilecount":6,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"CC by SA Verein zur Foerderung von Technikkultur Erfurt, Chaos"
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
@@ -778,6 +844,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"worldExit",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC by "
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,

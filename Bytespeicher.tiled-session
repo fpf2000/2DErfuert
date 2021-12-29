@@ -187,10 +187,10 @@
         },
         "main.json": {
             "scale": 0.5,
-            "selectedLayer": 4,
+            "selectedLayer": 12,
             "viewCenter": {
-                "x": 723,
-                "y": 826
+                "x": 157,
+                "y": 229
             }
         },
         "main.json#BytespeicherHaus": {

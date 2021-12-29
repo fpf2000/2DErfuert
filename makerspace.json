@@ -709,16 +709,6 @@
          "spacing":0,
          "tilecount":2048,
          "tileheight":32,
-         "tiles":[
-                {
-                 "id":0,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC by ChaosZone"
-                        }]
-                }],
          "tilewidth":32
         }, 
         {

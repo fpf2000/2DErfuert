@@ -277,7 +277,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"We used following tilesets:   \nfrom pipoya:  \nhttps:\/\/pipoya.itch.io\/pipoya-free-rpg-world-tileset-32x32-40x40-48x48  \nhttps:\/\/pipoya.itch.io\/pipoya-rpg-tileset-32x32  \n\nfrom finalbossblues:  \nhttps:\/\/finalbossblues.itch.io\/cloud-city-tileset  \n\nfrom beeler:  \nhttps:\/\/beeler.itch.io\/top-down-earth-tileset  \n\na bonfire from here:  \nhttps:\/\/www.ascensiongamedev.com\/topic\/1042-maps-tutorial-compilation\/?do=findComment&comment=17176\n\nand from hanzo kimura, edited by COAD, Benben:  \nhttps:\/\/rpgmcommunity.forumotion.com\/t63-valkyrie-stories-tileset\n"
+                 "value":"from pipoya pipoya.itch.io"
                 }],
          "spacing":0,
          "tilecount":48,
@@ -294,9 +294,9 @@
          "name":"pipo-map001",
          "properties":[
                 {
-                 "name":"\ntilesetCopyright",
+                 "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"We used following tilesets:   \nfrom pipoya:  \nhttps:\/\/pipoya.itch.io\/pipoya-free-rpg-world-tileset-32x32-40x40-48x48  \nhttps:\/\/pipoya.itch.io\/pipoya-rpg-tileset-32x32  \n\nfrom finalbossblues:  \nhttps:\/\/finalbossblues.itch.io\/cloud-city-tileset  \n\nfrom beeler:  \nhttps:\/\/beeler.itch.io\/top-down-earth-tileset  \n\na bonfire from here:  \nhttps:\/\/www.ascensiongamedev.com\/topic\/1042-maps-tutorial-compilation\/?do=findComment&comment=17176\n\nand from hanzo kimura, edited by COAD, Benben:  \nhttps:\/\/rpgmcommunity.forumotion.com\/t63-valkyrie-stories-tileset\n"
+                 "value":"from pipoya pipoya.itch.io"
                 }],
          "spacing":0,
          "tilecount":136,
@@ -313,13 +313,23 @@
          "name":"pipo-map001_at-yama3",
          "properties":[
                 {
-                 "name":"tilesetCopyright\n",
+                 "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"We used following tilesets:   \nfrom pipoya:  \nhttps:\/\/pipoya.itch.io\/pipoya-free-rpg-world-tileset-32x32-40x40-48x48  \nhttps:\/\/pipoya.itch.io\/pipoya-rpg-tileset-32x32  \n\nfrom finalbossblues:  \nhttps:\/\/finalbossblues.itch.io\/cloud-city-tileset  \n\nfrom beeler:  \nhttps:\/\/beeler.itch.io\/top-down-earth-tileset  \n\na bonfire from here:  \nhttps:\/\/www.ascensiongamedev.com\/topic\/1042-maps-tutorial-compilation\/?do=findComment&comment=17176\n\nand from hanzo kimura, edited by COAD, Benben:  \nhttps:\/\/rpgmcommunity.forumotion.com\/t63-valkyrie-stories-tileset\n"
+                 "value":"CC from pipoya  https:\/\/pipoya.itch.io"
                 }],
          "spacing":0,
          "tilecount":48,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"from pipoya pipoya.itch.io"
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
@@ -334,7 +344,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":""
+                 "value":"from pipoya pipoya.itch.io"
                 }],
          "spacing":0,
          "tilecount":48,
@@ -351,9 +361,9 @@
          "name":"pipo-map001_at-kusa",
          "properties":[
                 {
-                 "name":"tilesetCopyright\n",
+                 "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"# Tilesets\nWe used following tilesets:   \nfrom pipoya:  \nhttps:\/\/pipoya.itch.io\/pipoya-free-rpg-world-tileset-32x32-40x40-48x48  \nhttps:\/\/pipoya.itch.io\/pipoya-rpg-tileset-32x32  \n\nfrom finalbossblues:  \nhttps:\/\/finalbossblues.itch.io\/cloud-city-tileset  \n\nfrom beeler:  \nhttps:\/\/beeler.itch.io\/top-down-earth-tileset  \n\na bonfire from here:  \nhttps:\/\/www.ascensiongamedev.com\/topic\/1042-maps-tutorial-compilation\/?do=findComment&comment=17176\n\nand from hanzo kimura, edited by COAD, Benben:  \nhttps:\/\/rpgmcommunity.forumotion.com\/t63-valkyrie-stories-tileset"
+                 "value":"from pipoya pipoya.itch.io"
                 }],
          "spacing":0,
          "tilecount":48,
@@ -372,7 +382,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"We used following tilesets:   \nfrom pipoya:  \nhttps:\/\/pipoya.itch.io\/pipoya-free-rpg-world-tileset-32x32-40x40-48x48  \nhttps:\/\/pipoya.itch.io\/pipoya-rpg-tileset-32x32  \n\nfrom finalbossblues:  \nhttps:\/\/finalbossblues.itch.io\/cloud-city-tileset  \n\nfrom beeler:  \nhttps:\/\/beeler.itch.io\/top-down-earth-tileset  \n\na bonfire from here:  \nhttps:\/\/www.ascensiongamedev.com\/topic\/1042-maps-tutorial-compilation\/?do=findComment&comment=17176\n\nand from hanzo kimura, edited by COAD, Benben:  \nhttps:\/\/rpgmcommunity.forumotion.com\/t63-valkyrie-stories-tileset\n"
+                 "value":"from pipoya pipoya.itch.io"
                 }],
          "spacing":0,
          "tilecount":904,
@@ -428,7 +438,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":""
+                 "value":"CC By finalbossblueshttps:\/\/finalbossblues.itch.io"
                 }],
          "spacing":0,
          "tilecount":128,
@@ -445,9 +455,9 @@
          "name":"bskonffurn",
          "properties":[
                 {
-                 "name":"\ntilesetCopyright",
+                 "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"Chaos"
+                 "value":"CC by SA Verein zur Foerderung von Technikkultur Erfurt, Chaos"
                 }],
          "spacing":0,
          "tilecount":450,
@@ -1093,6 +1103,12 @@
          "imagewidth":1024,
          "margin":0,
          "name":"chaos_zone_shared",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC by Chaoszone"
+                }],
          "spacing":0,
          "tilecount":2048,
          "tileheight":32,
@@ -1108,9 +1124,9 @@
          "name":"BytespeicherHaus",
          "properties":[
                 {
-                 "name":"collides",
-                 "type":"bool",
-                 "value":true
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC by SA Verein zur Foerderung von Technikkultur Erfurt, fpf2000, "
                 }],
          "spacing":0,
          "tilecount":100,
@@ -2139,6 +2155,12 @@
          "imagewidth":1280,
          "margin":0,
          "name":"Erfurt_Grafik",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC by SA Verein zur Foerderung von Technikkultur Erfurt, fpf2000"
+                }],
          "spacing":0,
          "tilecount":1600,
          "tileheight":32,

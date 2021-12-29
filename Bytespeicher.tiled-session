@@ -201,11 +201,11 @@
             "scaleInDock": 1
         },
         "main.json": {
-            "scale": 1,
-            "selectedLayer": 10,
+            "scale": 0.33,
+            "selectedLayer": 11,
             "viewCenter": {
-                "x": 295,
-                "y": 306
+                "x": 793.939393939394,
+                "y": 363.6363636363636
             }
         },
         "main.json#BSKonfCollid": {
@@ -349,8 +349,8 @@
     "property.type": "file",
     "recentFiles": [
         "main.json",
-        "Bytespeicher.json",
         "makerspace.json",
+        "Bytespeicher.json",
         "bskonf.tsx",
         "BytespeicherHaus.tsx",
         "bskonfCollid.tsx",

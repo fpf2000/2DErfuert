@@ -91,6 +91,48 @@
         "C:/Users/fpf20/Documents/Projects/Bytespeicher_WorkAdventure_RC3/main.json#worldExit": {
             "scaleInDock": 1
         },
+        "C:/Users/fpf20/Documents/Projects/wa-event/main.json": {
+            "scale": 0.5,
+            "selectedLayer": 10,
+            "viewCenter": {
+                "x": 799,
+                "y": 3040
+            }
+        },
+        "C:/Users/fpf20/Documents/Projects/wa-event/main.json#EBK_Wall": {
+            "scaleInDock": 1
+        },
+        "C:/Users/fpf20/Documents/Projects/wa-event/main.json#Text_EBK": {
+            "scaleInDock": 1
+        },
+        "C:/Users/fpf20/Documents/Projects/wa-event/main.json#cars_animation": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "C:/Users/fpf20/Documents/Projects/wa-event/main.json#chaos_zone_shared": {
+            "scaleInDock": 1
+        },
+        "C:/Users/fpf20/Documents/Projects/wa-event/main.json#colors": {
+            "scaleInDock": 1
+        },
+        "C:/Users/fpf20/Documents/Projects/wa-event/main.json#divoc": {
+            "scaleInDock": 1
+        },
+        "C:/Users/fpf20/Documents/Projects/wa-event/main.json#fantasy": {
+            "scaleInDock": 1
+        },
+        "C:/Users/fpf20/Documents/Projects/wa-event/main.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "C:/Users/fpf20/Documents/Projects/wa-event/main.json#nightoverlay": {
+            "scaleInDock": 1
+        },
+        "C:/Users/fpf20/Documents/Projects/wa-event/main.json#tilesets_deviant_milkian_1": {
+            "scaleInDock": 1
+        },
+        "C:/Users/fpf20/Documents/Projects/wa-event/main.json#winter": {
+            "scaleInDock": 1
+        },
         "erfurt.json": {
             "scale": 0.75,
             "selectedLayer": 15,
@@ -137,10 +179,10 @@
         },
         "main.json": {
             "scale": 0.5,
-            "selectedLayer": 15,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 688,
-                "y": 574
+                "x": -143,
+                "y": 468
             }
         },
         "main.json#BytespeicherHaus": {

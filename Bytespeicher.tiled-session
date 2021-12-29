@@ -6,6 +6,7 @@
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
         "": {
+            "scaleInDock": 1,
             "scaleInEditor": 1
         },
         "Bytespeicher.json": {
@@ -93,9 +94,9 @@
         },
         "C:/Users/fpf20/Documents/Projects/wa-event/main.json": {
             "scale": 0.5,
-            "selectedLayer": 10,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 799,
+                "x": 800,
                 "y": 3040
             }
         },
@@ -209,6 +210,7 @@
             "scaleInDock": 1
         },
         "main.json#bskonffurn": {
+            "dynamicWrapping": false,
             "scaleInDock": 1,
             "scaleInEditor": 1
         },

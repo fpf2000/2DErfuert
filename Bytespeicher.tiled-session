@@ -265,10 +265,10 @@
         },
         "makerspace.json": {
             "scale": 1.2850446428571427,
-            "selectedLayer": 0,
+            "selectedLayer": 6,
             "viewCenter": {
                 "x": 176.25846795205837,
-                "y": 234.23310752127847
+                "y": 443.5643564356436
             }
         },
         "makerspace.json#MS_TILES_ef": {

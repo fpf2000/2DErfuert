@@ -1,6 +1,7 @@
 {
-    "activeFile": "Bytespeicher.json",
+    "activeFile": "main.json",
     "expandedProjectPaths": [
+        "."
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
@@ -200,11 +201,11 @@
             "scaleInDock": 1
         },
         "main.json": {
-            "scale": 0.5,
-            "selectedLayer": 7,
+            "scale": 1,
+            "selectedLayer": 10,
             "viewCenter": {
-                "x": 586,
-                "y": 486
+                "x": 295,
+                "y": 306
             }
         },
         "main.json#BSKonfCollid": {
@@ -342,7 +343,7 @@
     "last.externalTilesetPath": "C:/Users/fpf20/Documents/Projects/2DErfurt",
     "last.imagePath": "C:/Users/fpf20/Documents/Projects/2DErfurt/tilesets",
     "openFiles": [
-        "Bytespeicher.json"
+        "main.json"
     ],
     "project": "Bytespeicher.tiled-project",
     "property.type": "file",

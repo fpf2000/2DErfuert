@@ -122,6 +122,11 @@
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"press SPACE to open Website"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -145,6 +150,11 @@
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"press SPACE to open Website"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -168,6 +178,11 @@
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"press SPACE to open Website"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -191,6 +206,11 @@
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"press SPACE to open Website"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -256,6 +276,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"Bytespeicher"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,

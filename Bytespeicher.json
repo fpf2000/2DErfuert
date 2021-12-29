@@ -53,7 +53,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":31,
          "x":0,
          "y":0
@@ -83,7 +83,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":31,
          "x":0,
          "y":0
@@ -95,7 +95,7 @@
          "name":"bottom2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":31,
          "x":0,
          "y":0
@@ -123,7 +123,7 @@
                  "value":"press SPACE to open Website"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":31,
          "x":0,
          "y":0
@@ -151,7 +151,7 @@
                  "value":"press SPACE to open Website"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":31,
          "x":0,
          "y":0
@@ -179,7 +179,7 @@
                  "value":"press SPACE to open Website"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":31,
          "x":0,
          "y":0
@@ -207,7 +207,7 @@
                  "value":"press SPACE to open Website"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":31,
          "x":0,
          "y":0
@@ -231,7 +231,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }, 
@@ -242,7 +242,7 @@
          "name":"top0",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":31,
          "x":0,
          "y":0
@@ -254,7 +254,7 @@
          "name":"furniture",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":31,
          "x":0,
          "y":0
@@ -282,7 +282,7 @@
                  "value":"press SPACE to open Website"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":31,
          "x":0,
          "y":0
@@ -294,7 +294,7 @@
          "name":"top",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":31,
          "x":0,
          "y":0
@@ -424,25 +424,6 @@
                 }],
          "spacing":0,
          "tilecount":2048,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
-         "columns":30,
-         "firstgid":3511,
-         "image":"tilesets\/bskonfCollid.png",
-         "imageheight":508,
-         "imagewidth":962,
-         "margin":0,
-         "name":"BSKonfCollid",
-         "properties":[
-                {
-                 "name":"tilesetCopyright",
-                 "type":"string",
-                 "value":"CC by SA Verein zur Foerderung von Technikkultur Erfurt, fpf2000, & Co"
-                }],
-         "spacing":0,
-         "tilecount":450,
          "tileheight":32,
          "tilewidth":32
         }],

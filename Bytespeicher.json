@@ -77,7 +77,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":31,
          "x":0,
          "y":0
@@ -89,7 +89,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":31,
          "x":0,
          "y":0
@@ -101,7 +101,7 @@
          "name":"bottom2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":31,
          "x":0,
          "y":0
@@ -129,7 +129,7 @@
                  "value":"press SPACE to open Website"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":31,
          "x":0,
          "y":0
@@ -157,7 +157,7 @@
                  "value":"press SPACE to open Website"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":31,
          "x":0,
          "y":0
@@ -185,7 +185,7 @@
                  "value":"press SPACE to open Website"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":31,
          "x":0,
          "y":0
@@ -213,7 +213,7 @@
                  "value":"press SPACE to open Website"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":31,
          "x":0,
          "y":0
@@ -225,7 +225,7 @@
          "name":"furniture2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":31,
          "x":0,
          "y":0
@@ -237,7 +237,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }, 
@@ -248,7 +248,7 @@
          "name":"top0",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":31,
          "x":0,
          "y":0
@@ -260,7 +260,7 @@
          "name":"furniture",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":31,
          "x":0,
          "y":0
@@ -288,7 +288,7 @@
                  "value":"press SPACE to open Website"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":31,
          "x":0,
          "y":0
@@ -300,7 +300,7 @@
          "name":"top",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":31,
          "x":0,
          "y":0

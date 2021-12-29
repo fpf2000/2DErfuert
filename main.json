@@ -104,7 +104,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/chaoszone\/main.json#start_erfurt"
+                 "value":"world:\/\/lobby\/main.json#start_erfurt"
                 }],
          "type":"tilelayer",
          "visible":true,

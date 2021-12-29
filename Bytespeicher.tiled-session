@@ -321,7 +321,7 @@
         "Bytespeicher.json"
     ],
     "project": "Bytespeicher.tiled-project",
-    "property.type": "bool",
+    "property.type": "string",
     "recentFiles": [
         "C:/Users/fpf20/Documents/Projects/wa-event/main.json",
         "Bytespeicher.json",

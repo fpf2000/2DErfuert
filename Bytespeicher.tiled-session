@@ -1,7 +1,6 @@
 {
-    "activeFile": "makerspace.json",
+    "activeFile": "Bytespeicher.json",
     "expandedProjectPaths": [
-        "."
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
@@ -13,12 +12,14 @@
             "scale": 0.75,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": -380.66666666666663,
-                "y": 352
+                "x": 294,
+                "y": 345.33333333333326
             }
         },
         "Bytespeicher.json#BSKonfCollid": {
-            "scaleInDock": 1
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "Bytespeicher.json#bskonf": {
             "dynamicWrapping": false,
@@ -144,6 +145,11 @@
         "C:/Users/fpf20/Documents/Projects/wa-event/main.json#winter": {
             "scaleInDock": 1
         },
+        "bskonf.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
         "bskonfCollid.tsx": {
             "dynamicWrapping": false,
             "scaleInDock": 1,
@@ -197,9 +203,14 @@
             "scale": 0.5,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 723,
-                "y": 826
+                "x": 717,
+                "y": 640
             }
+        },
+        "main.json#BSKonfCollid": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "main.json#BytespeicherHaus": {
             "dynamicWrapping": false,
@@ -276,8 +287,12 @@
             "selectedLayer": 4,
             "viewCenter": {
                 "x": 249.99999999999997,
-                "y": 221.3333333333333
+                "y": 220
             }
+        },
+        "makerspace.json#BSKonfCollid": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "makerspace.json#MS_TILES_ef": {
             "scaleInDock": 1,
@@ -327,26 +342,23 @@
     "last.externalTilesetPath": "C:/Users/fpf20/Documents/Projects/2DErfurt",
     "last.imagePath": "C:/Users/fpf20/Documents/Projects/2DErfurt/tilesets",
     "openFiles": [
-        "main.json",
-        "Bytespeicher.json",
-        "makerspace.json",
-        "bskonfCollid.tsx"
+        "Bytespeicher.json"
     ],
     "project": "Bytespeicher.tiled-project",
-    "property.type": "bool",
+    "property.type": "string",
     "recentFiles": [
         "Bytespeicher.json",
         "main.json",
-        "bskonfCollid.tsx",
         "makerspace.json",
+        "bskonf.tsx",
+        "BytespeicherHaus.tsx",
+        "bskonfCollid.tsx",
         "C:/Users/fpf20/Documents/Projects/wa-event/main.json",
         "tilesets/Kram.tsx",
         "tilesets/Erfurt_Grafik.tsx",
         "tilesets/BS_TILES_256X256.tsx",
-        "BytespeicherHaus.tsx",
         "C:/Users/fpf20/Documents/Projects/Bytespeicher_WorkAdventure_RC3/Bytespeicher.json",
-        "C:/Users/fpf20/Documents/Projects/Bytespeicher_WorkAdventure_RC3/main.json",
-        "erfurt.json"
+        "C:/Users/fpf20/Documents/Projects/Bytespeicher_WorkAdventure_RC3/main.json"
     ],
     "tileset.lastUsedFormat": "tsx"
 }

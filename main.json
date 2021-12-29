@@ -1513,6 +1513,25 @@
                 }],
          "tilewidth":32,
          "transparentcolor":"#ff00ff"
+        }, 
+        {
+         "columns":30,
+         "firstgid":5559,
+         "image":"tilesets\/bskonfCollid.png",
+         "imageheight":508,
+         "imagewidth":962,
+         "margin":0,
+         "name":"BSKonfCollid",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC by SA Verein zur Foerderung von Technikkultur Erfurt, fpf2000, & Co"
+                }],
+         "spacing":0,
+         "tilecount":450,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",

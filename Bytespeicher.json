@@ -359,6 +359,11 @@
                  "name":"collides",
                  "type":"bool",
                  "value":true
+                }, 
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC by SA Verein zur Foerderung von Technikkultur Erfurt, fpf2000, & Co"
                 }],
          "spacing":0,
          "tilecount":450,
@@ -419,6 +424,25 @@
                 }],
          "spacing":0,
          "tilecount":2048,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":30,
+         "firstgid":3511,
+         "image":"tilesets\/bskonfCollid.png",
+         "imageheight":508,
+         "imagewidth":962,
+         "margin":0,
+         "name":"BSKonfCollid",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC by SA Verein zur Foerderung von Technikkultur Erfurt, fpf2000, & Co"
+                }],
+         "spacing":0,
+         "tilecount":450,
          "tileheight":32,
          "tilewidth":32
         }],

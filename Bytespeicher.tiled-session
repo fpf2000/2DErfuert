@@ -11,7 +11,7 @@
         },
         "Bytespeicher.json": {
             "scale": 2,
-            "selectedLayer": 14,
+            "selectedLayer": 0,
             "viewCenter": {
                 "x": 125.25,
                 "y": 475.5
@@ -187,7 +187,7 @@
         },
         "main.json": {
             "scale": 0.5,
-            "selectedLayer": 2,
+            "selectedLayer": 0,
             "viewCenter": {
                 "x": 723,
                 "y": 826
@@ -268,7 +268,7 @@
             "selectedLayer": 0,
             "viewCenter": {
                 "x": 176.25846795205837,
-                "y": 442.78617335417755
+                "y": 349.4042035782526
             }
         },
         "makerspace.json#MS_TILES_ef": {

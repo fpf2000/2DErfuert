@@ -187,7 +187,7 @@
         },
         "main.json": {
             "scale": 0.5,
-            "selectedLayer": 4,
+            "selectedLayer": 11,
             "viewCenter": {
                 "x": 671,
                 "y": 650
@@ -268,7 +268,7 @@
             "selectedLayer": 0,
             "viewCenter": {
                 "x": 176.25846795205837,
-                "y": 235.01129060274454
+                "y": 234.23310752127847
             }
         },
         "makerspace.json#MS_TILES_ef": {
@@ -324,11 +324,11 @@
     "project": "Bytespeicher.tiled-project",
     "property.type": "string",
     "recentFiles": [
+        "C:/Users/fpf20/Documents/Projects/wa-event/main.json",
         "Bytespeicher.json",
         "tilesets/Kram.tsx",
         "tilesets/Erfurt_Grafik.tsx",
         "tilesets/BS_TILES_256X256.tsx",
-        "C:/Users/fpf20/Documents/Projects/wa-event/main.json",
         "makerspace.json",
         "main.json",
         "BytespeicherHaus.tsx",

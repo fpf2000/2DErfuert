@@ -13,8 +13,8 @@
             "scale": 2,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 125.25,
-                "y": 475.5
+                "x": 20.75,
+                "y": 475
             }
         },
         "Bytespeicher.json#bskonf": {
@@ -187,10 +187,10 @@
         },
         "main.json": {
             "scale": 0.5,
-            "selectedLayer": 12,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 157,
-                "y": 229
+                "x": 688,
+                "y": 574
             }
         },
         "main.json#BytespeicherHaus": {
@@ -267,8 +267,8 @@
             "scale": 1.2850446428571427,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 175.48028487059233,
-                "y": 348.2369289560536
+                "x": 249.40767760986625,
+                "y": 294.93138787562975
             }
         },
         "makerspace.json#MS_TILES_ef": {

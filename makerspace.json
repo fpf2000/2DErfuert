@@ -702,7 +702,7 @@
          "name":"chaos_zone_shared",
          "properties":[
                 {
-                 "name":"tilesetCopyrigh",
+                 "name":"tilesetCopyright",
                  "type":"string",
                  "value":"CC By Chaozone shared"
                 }],

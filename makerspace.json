@@ -50,7 +50,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"main.json#reentry-erfurt"
+                 "value":"main.json#reentry-makerspace"
                 }],
          "type":"tilelayer",
          "visible":true,

@@ -32,10 +32,10 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"main.json#reentry-erfurt"
+                 "value":"main.json#reentry-bytespeicher"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":31,
          "x":0,
          "y":0

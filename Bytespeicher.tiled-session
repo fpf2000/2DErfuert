@@ -13,7 +13,7 @@
             "scale": 0.33,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 451.5151515151515,
+                "x": 451.5151515151516,
                 "y": 687.8787878787878
             }
         },
@@ -201,11 +201,11 @@
             "scaleInDock": 1
         },
         "main.json": {
-            "scale": 0.33,
-            "selectedLayer": 9,
+            "scale": 2,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 1172.7272727272725,
-                "y": 84.84848484848487
+                "x": 1172.5,
+                "y": 495.5
             }
         },
         "main.json#BSKonfCollid": {

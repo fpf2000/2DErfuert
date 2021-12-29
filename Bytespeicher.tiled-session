@@ -345,7 +345,7 @@
         "Bytespeicher.json"
     ],
     "project": "Bytespeicher.tiled-project",
-    "property.type": "string",
+    "property.type": "file",
     "recentFiles": [
         "Bytespeicher.json",
         "makerspace.json",

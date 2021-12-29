@@ -104,7 +104,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"main.json#start_erfurt"
+                 "value":"chaoszone.json#start_erfurt"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -273,7 +273,7 @@
          "name":"pipo-map001",
          "properties":[
                 {
-                 "name":"t",
+                 "name":"\ntilesetCopyright",
                  "type":"string",
                  "value":"We used following tilesets:   \nfrom pipoya:  \nhttps:\/\/pipoya.itch.io\/pipoya-free-rpg-world-tileset-32x32-40x40-48x48  \nhttps:\/\/pipoya.itch.io\/pipoya-rpg-tileset-32x32  \n\nfrom finalbossblues:  \nhttps:\/\/finalbossblues.itch.io\/cloud-city-tileset  \n\nfrom beeler:  \nhttps:\/\/beeler.itch.io\/top-down-earth-tileset  \n\na bonfire from here:  \nhttps:\/\/www.ascensiongamedev.com\/topic\/1042-maps-tutorial-compilation\/?do=findComment&comment=17176\n\nand from hanzo kimura, edited by COAD, Benben:  \nhttps:\/\/rpgmcommunity.forumotion.com\/t63-valkyrie-stories-tileset\n"
                 }],
@@ -519,6 +519,12 @@
          "imagewidth":962,
          "margin":0,
          "name":"bskonffurn",
+         "properties":[
+                {
+                 "name":"\ntilesetCopyright",
+                 "type":"string",
+                 "value":"Chaos"
+                }],
          "spacing":0,
          "tilecount":450,
          "tileheight":32,

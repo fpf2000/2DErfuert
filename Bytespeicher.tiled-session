@@ -1,8 +1,7 @@
 {
-    "activeFile": "main.json",
+    "activeFile": "Bytespeicher.json",
     "expandedProjectPaths": [
-        ".",
-        "tilesets"
+        "."
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
@@ -11,15 +10,16 @@
         },
         "Bytespeicher.json": {
             "scale": 0.75,
-            "selectedLayer": 15,
+            "selectedLayer": 9,
             "viewCenter": {
-                "x": 488,
-                "y": 556
+                "x": 485.33333333333337,
+                "y": 552
             }
         },
         "Bytespeicher.json#bskonf": {
             "dynamicWrapping": false,
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "Bytespeicher.json#bskonffurn": {
             "scaleInDock": 1
@@ -137,10 +137,10 @@
         },
         "main.json": {
             "scale": 0.5,
-            "selectedLayer": 2,
+            "selectedLayer": 15,
             "viewCenter": {
-                "x": 270,
-                "y": 480
+                "x": 688,
+                "y": 574
             }
         },
         "main.json#BytespeicherHaus": {
@@ -167,7 +167,8 @@
             "scaleInDock": 1
         },
         "main.json#bskonffurn": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "main.json#chaos_zone_shared": {
             "dynamicWrapping": false,
@@ -257,18 +258,17 @@
     "last.imagePath": "C:/Users/fpf20/Documents/Projects/2DErfurt",
     "openFiles": [
         "main.json",
-        "Bytespeicher.json",
-        "makerspace.json"
+        "Bytespeicher.json"
     ],
     "project": "Bytespeicher.tiled-project",
     "property.type": "string",
     "recentFiles": [
-        "Bytespeicher.json",
-        "makerspace.json",
         "main.json",
+        "Bytespeicher.json",
+        "BytespeicherHaus.tsx",
+        "makerspace.json",
         "tilesets/Kram.tsx",
         "tilesets/Erfurt_Grafik.tsx",
-        "BytespeicherHaus.tsx",
         "tilesets/BS_TILES_256X256.tsx",
         "C:/Users/fpf20/Documents/Projects/Bytespeicher_WorkAdventure_RC3/Bytespeicher.json",
         "C:/Users/fpf20/Documents/Projects/Bytespeicher_WorkAdventure_RC3/main.json",

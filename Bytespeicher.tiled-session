@@ -11,7 +11,7 @@
         },
         "Bytespeicher.json": {
             "scale": 2,
-            "selectedLayer": 0,
+            "selectedLayer": 14,
             "viewCenter": {
                 "x": 125.25,
                 "y": 475.5
@@ -190,7 +190,7 @@
             "selectedLayer": 2,
             "viewCenter": {
                 "x": 723,
-                "y": 828
+                "y": 826
             }
         },
         "main.json#BytespeicherHaus": {

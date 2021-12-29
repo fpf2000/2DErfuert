@@ -10,7 +10,7 @@
         },
         "Bytespeicher.json": {
             "scale": 0.75,
-            "selectedLayer": 4,
+            "selectedLayer": 1,
             "viewCenter": {
                 "x": 294,
                 "y": 342.6666666666667
@@ -204,7 +204,7 @@
             "selectedLayer": 3,
             "viewCenter": {
                 "x": 222,
-                "y": 640
+                "y": 636
             }
         },
         "main.json#BSKonfCollid": {

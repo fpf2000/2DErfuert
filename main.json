@@ -326,16 +326,6 @@
          "spacing":0,
          "tilecount":48,
          "tileheight":32,
-         "tiles":[
-                {
-                 "id":0,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC By pipoya.itch.io"
-                        }]
-                }],
          "tilewidth":32
         }, 
         {

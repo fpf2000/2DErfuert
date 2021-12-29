@@ -7,7 +7,7 @@
     "fileStates": {
         "": {
             "scaleInDock": 1,
-            "scaleInEditor": 1
+            "scaleInEditor": 0.75
         },
         "Bytespeicher.json": {
             "scale": 2,
@@ -324,9 +324,9 @@
     "project": "Bytespeicher.tiled-project",
     "property.type": "string",
     "recentFiles": [
+        "main.json",
         "Bytespeicher.json",
         "makerspace.json",
-        "main.json",
         "C:/Users/fpf20/Documents/Projects/wa-event/main.json",
         "tilesets/Kram.tsx",
         "tilesets/Erfurt_Grafik.tsx",

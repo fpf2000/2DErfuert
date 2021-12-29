@@ -94,9 +94,9 @@
         },
         "C:/Users/fpf20/Documents/Projects/wa-event/main.json": {
             "scale": 0.5,
-            "selectedLayer": 1,
+            "selectedLayer": 12,
             "viewCenter": {
-                "x": 796,
+                "x": 795,
                 "y": 3036
             }
         },
@@ -185,7 +185,7 @@
             "selectedLayer": 5,
             "viewCenter": {
                 "x": -545,
-                "y": 464
+                "y": 442
             }
         },
         "main.json#BytespeicherHaus": {
@@ -313,9 +313,9 @@
     "project": "Bytespeicher.tiled-project",
     "property.type": "string",
     "recentFiles": [
+        "C:/Users/fpf20/Documents/Projects/wa-event/main.json",
         "Bytespeicher.json",
         "makerspace.json",
-        "C:/Users/fpf20/Documents/Projects/wa-event/main.json",
         "main.json",
         "BytespeicherHaus.tsx",
         "tilesets/Kram.tsx",

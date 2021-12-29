@@ -7,14 +7,14 @@
     "fileStates": {
         "": {
             "scaleInDock": 1,
-            "scaleInEditor": 0.75
+            "scaleInEditor": 1
         },
         "Bytespeicher.json": {
             "scale": 2,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 125.25,
-                "y": 475.25
+                "x": 20.75,
+                "y": 474.5
             }
         },
         "Bytespeicher.json#bskonf": {
@@ -187,10 +187,10 @@
         },
         "main.json": {
             "scale": 0.5,
-            "selectedLayer": 12,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 157,
-                "y": 229
+                "x": 723,
+                "y": 826
             }
         },
         "main.json#BytespeicherHaus": {
@@ -267,8 +267,8 @@
             "scale": 1.2850446428571427,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 173.92391870766028,
-                "y": 348.2369289560536
+                "x": 249.40767760986625,
+                "y": 222.56036129928785
             }
         },
         "makerspace.json#MS_TILES_ef": {
@@ -316,18 +316,19 @@
             "scaleInEditor": 1
         }
     },
-    "last.imagePath": "C:/Users/fpf20/Documents/Projects/2DErfurt",
+    "last.externalTilesetPath": "C:/Users/fpf20/Documents/Projects/2DErfurt",
+    "last.imagePath": "C:/Users/fpf20/Documents/Projects/2DErfurt/tilesets",
     "openFiles": [
         "main.json",
         "Bytespeicher.json"
     ],
     "project": "Bytespeicher.tiled-project",
-    "property.type": "string",
+    "property.type": "bool",
     "recentFiles": [
-        "main.json",
-        "Bytespeicher.json",
         "makerspace.json",
+        "main.json",
         "C:/Users/fpf20/Documents/Projects/wa-event/main.json",
+        "Bytespeicher.json",
         "tilesets/Kram.tsx",
         "tilesets/Erfurt_Grafik.tsx",
         "tilesets/BS_TILES_256X256.tsx",
@@ -335,5 +336,6 @@
         "C:/Users/fpf20/Documents/Projects/Bytespeicher_WorkAdventure_RC3/Bytespeicher.json",
         "C:/Users/fpf20/Documents/Projects/Bytespeicher_WorkAdventure_RC3/main.json",
         "erfurt.json"
-    ]
+    ],
+    "tileset.lastUsedFormat": "tsx"
 }

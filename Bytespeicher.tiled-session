@@ -10,7 +10,7 @@
         },
         "Bytespeicher.json": {
             "scale": 0.33,
-            "selectedLayer": 4,
+            "selectedLayer": 1,
             "viewCenter": {
                 "x": 443.9393939393939,
                 "y": 506.060606060606
@@ -201,7 +201,7 @@
         },
         "main.json": {
             "scale": 0.25,
-            "selectedLayer": 3,
+            "selectedLayer": 1,
             "viewCenter": {
                 "x": 134,
                 "y": 364
@@ -284,10 +284,10 @@
         },
         "makerspace.json": {
             "scale": 0.75,
-            "selectedLayer": 0,
+            "selectedLayer": 2,
             "viewCenter": {
                 "x": 248.66666666666666,
-                "y": 218.66666666666669
+                "y": 217.3333333333333
             }
         },
         "makerspace.json#BSKonfCollid": {

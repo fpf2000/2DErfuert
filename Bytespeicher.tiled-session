@@ -14,7 +14,7 @@
             "selectedLayer": 14,
             "viewCenter": {
                 "x": 673,
-                "y": 494
+                "y": 486
             }
         },
         "Bytespeicher.json#bskonf": {
@@ -98,26 +98,29 @@
             "scale": 0.5,
             "selectedLayer": 12,
             "viewCenter": {
-                "x": 795,
-                "y": 3036
+                "x": 787,
+                "y": 3028
             }
         },
         "C:/Users/fpf20/Documents/Projects/wa-event/main.json#EBK_Wall": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "C:/Users/fpf20/Documents/Projects/wa-event/main.json#Text_EBK": {
             "scaleInDock": 1
         },
         "C:/Users/fpf20/Documents/Projects/wa-event/main.json#cars_animation": {
             "dynamicWrapping": false,
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "C:/Users/fpf20/Documents/Projects/wa-event/main.json#chaos_zone_shared": {
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
         "C:/Users/fpf20/Documents/Projects/wa-event/main.json#colors": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "C:/Users/fpf20/Documents/Projects/wa-event/main.json#divoc": {
             "scaleInDock": 1,
@@ -184,10 +187,10 @@
         },
         "main.json": {
             "scale": 0.5,
-            "selectedLayer": 5,
+            "selectedLayer": 1,
             "viewCenter": {
                 "x": -545,
-                "y": 442
+                "y": 428
             }
         },
         "main.json#BytespeicherHaus": {
@@ -318,12 +321,12 @@
         "Bytespeicher.json"
     ],
     "project": "Bytespeicher.tiled-project",
-    "property.type": "string",
+    "property.type": "object",
     "recentFiles": [
-        "makerspace.json",
-        "Bytespeicher.json",
-        "main.json",
         "C:/Users/fpf20/Documents/Projects/wa-event/main.json",
+        "Bytespeicher.json",
+        "makerspace.json",
+        "main.json",
         "BytespeicherHaus.tsx",
         "tilesets/Kram.tsx",
         "tilesets/Erfurt_Grafik.tsx",

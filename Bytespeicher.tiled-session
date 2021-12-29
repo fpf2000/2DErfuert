@@ -187,16 +187,16 @@
         },
         "main.json": {
             "scale": 0.5,
-            "selectedLayer": 1,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": -545,
-                "y": 428
+                "x": 671,
+                "y": 654
             }
         },
         "main.json#BytespeicherHaus": {
             "dynamicWrapping": false,
             "scaleInDock": 1,
-            "scaleInEditor": 1
+            "scaleInEditor": 0.75
         },
         "main.json#Erfurt_Grafik": {
             "scaleInDock": 1,
@@ -321,7 +321,7 @@
         "Bytespeicher.json"
     ],
     "project": "Bytespeicher.tiled-project",
-    "property.type": "object",
+    "property.type": "bool",
     "recentFiles": [
         "C:/Users/fpf20/Documents/Projects/wa-event/main.json",
         "Bytespeicher.json",

@@ -1,5 +1,5 @@
 {
-    "activeFile": "Bytespeicher.json",
+    "activeFile": "makerspace.json",
     "expandedProjectPaths": [
         "."
     ],
@@ -11,11 +11,14 @@
         },
         "Bytespeicher.json": {
             "scale": 0.75,
-            "selectedLayer": 15,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 227.33333333333331,
+                "x": -380.66666666666663,
                 "y": 352
             }
+        },
+        "Bytespeicher.json#BSKonfCollid": {
+            "scaleInDock": 1
         },
         "Bytespeicher.json#bskonf": {
             "dynamicWrapping": false,
@@ -141,6 +144,11 @@
         "C:/Users/fpf20/Documents/Projects/wa-event/main.json#winter": {
             "scaleInDock": 1
         },
+        "bskonfCollid.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
         "erfurt.json": {
             "scale": 0.75,
             "selectedLayer": 15,
@@ -264,11 +272,11 @@
             "scaleInDock": 1
         },
         "makerspace.json": {
-            "scale": 1.2850446428571427,
-            "selectedLayer": 3,
+            "scale": 0.75,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 249.40767760986625,
-                "y": 222.56036129928785
+                "x": 249.99999999999997,
+                "y": 221.3333333333333
             }
         },
         "makerspace.json#MS_TILES_ef": {
@@ -320,15 +328,18 @@
     "last.imagePath": "C:/Users/fpf20/Documents/Projects/2DErfurt/tilesets",
     "openFiles": [
         "main.json",
-        "Bytespeicher.json"
+        "Bytespeicher.json",
+        "makerspace.json",
+        "bskonfCollid.tsx"
     ],
     "project": "Bytespeicher.tiled-project",
     "property.type": "bool",
     "recentFiles": [
-        "makerspace.json",
-        "main.json",
-        "C:/Users/fpf20/Documents/Projects/wa-event/main.json",
         "Bytespeicher.json",
+        "main.json",
+        "bskonfCollid.tsx",
+        "makerspace.json",
+        "C:/Users/fpf20/Documents/Projects/wa-event/main.json",
         "tilesets/Kram.tsx",
         "tilesets/Erfurt_Grafik.tsx",
         "tilesets/BS_TILES_256X256.tsx",

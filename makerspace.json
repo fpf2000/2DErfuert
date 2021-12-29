@@ -435,21 +435,12 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"We used following tilesets:   \nfrom pipoya:  \nhttps:\/\/pipoya.itch.io\/pipoya-free-rpg-world-tileset-32x32-40x40-48x48  \nhttps:\/\/pipoya.itch.io\/pipoya-rpg-tileset-32x32  \n\nfrom finalbossblues:  \nhttps:\/\/finalbossblues.itch.io\/cloud-city-tileset  \n\nfrom beeler:  \nhttps:\/\/beeler.itch.io\/top-down-earth-tileset  \n\na bonfire from here:  \nhttps:\/\/www.ascensiongamedev.com\/topic\/1042-maps-tutorial-compilation\/?do=findComment&comment=17176\n\nand from hanzo kimura, edited by COAD, Benben:  \nhttps:\/\/rpgmcommunity.forumotion.com\/t63-valkyrie-stories-tileset\n"
+                 "value":"from finalbossblues:  \nhttps:\/\/finalbossblues.itch.io\/cloud-city-tileset  \n\nfrom beeler:  \nhttps:\/\/beeler.itch.io\/top-down-earth-tileset  \n\na bonfire from here:  \nhttps:\/\/www.ascensiongamedev.com\/topic\/1042-maps-tutorial-compilation\/?do=findComment&comment=17176\n\nand from hanzo kimura, edited by COAD, Benben:  \nhttps:\/\/rpgmcommunity.forumotion.com\/t63-valkyrie-stories-tileset\n"
                 }],
          "spacing":0,
          "tilecount":112,
          "tileheight":32,
          "tiles":[
-                {
-                 "id":0,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC By"
-                        }]
-                }, 
                 {
                  "id":30,
                  "properties":[
@@ -554,7 +545,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"\nCC by SA Verein zur Foerderung von Technikkultur Erfurt, fpf2000, & Co"
+                 "value":"CC by SA Verein zur Foerderung von Technikkultur Erfurt, fpf2000, & Co"
                 }],
          "spacing":0,
          "tilecount":450,
@@ -714,55 +705,15 @@
          "imagewidth":962,
          "margin":0,
          "name":"bskonffurn",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC by SA Verein zur Foerderung von Technikkultur Erfurt, fpf2000, & Co"
+                }],
          "spacing":0,
          "tilecount":450,
          "tileheight":32,
-         "tiles":[
-                {
-                 "id":0,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"\nCC by SA Verein zur Foerderung von Technikkultur Erfurt, fpf2000, & Co"
-                        }]
-                }, 
-                {
-                 "id":159,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }, 
-                {
-                 "id":160,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }, 
-                {
-                 "id":161,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }, 
-                {
-                 "id":191,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }],
          "tilewidth":32
         }, 
         {
@@ -777,7 +728,7 @@
                 {
                  "name":"tilesetCopyrigh",
                  "type":"string",
-                 "value":"We used following tilesets:   \nfrom pipoya:  \nhttps:\/\/pipoya.itch.io\/pipoya-free-rpg-world-tileset-32x32-40x40-48x48  \nhttps:\/\/pipoya.itch.io\/pipoya-rpg-tileset-32x32  \n\nfrom finalbossblues:  \nhttps:\/\/finalbossblues.itch.io\/cloud-city-tileset  \n\nfrom beeler:  \nhttps:\/\/beeler.itch.io\/top-down-earth-tileset  \n\na bonfire from here:  \nhttps:\/\/www.ascensiongamedev.com\/topic\/1042-maps-tutorial-compilation\/?do=findComment&comment=17176\n\nand from hanzo kimura, edited by COAD, Benben:  \nhttps:\/\/rpgmcommunity.forumotion.com\/t63-valkyrie-stories-tileset\n"
+                 "value":"CC By Chaozone shared"
                 }],
          "spacing":0,
          "tilecount":2048,
@@ -821,19 +772,15 @@
          "imagewidth":96,
          "margin":0,
          "name":"stuff",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC by SA Verein zur Foerderung von Technikkultur Erfurt, fpf2000, & Co"
+                }],
          "spacing":0,
          "tilecount":6,
          "tileheight":32,
-         "tiles":[
-                {
-                 "id":0,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC by SA Verein zur Foerderung von Technikkultur Erfurt, Chaos"
-                        }]
-                }],
          "tilewidth":32
         }, 
         {

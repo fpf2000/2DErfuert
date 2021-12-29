@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tileset version="1.4" tiledversion="1.4.3" name="Erfurt_Grafik" tilewidth="32" tileheight="32" tilecount="1600" columns="40">
+<tileset version="1.5" tiledversion="1.7.2" name="Erfurt_Grafik" tilewidth="32" tileheight="32" tilecount="1600" columns="40">
+ <properties>
+  <property name="tilesetCopyright" value="CC by SA Verein zur Foerderung von Technikkultur Erfurt"/>
+ </properties>
  <image source="Erfurt_TILES_1024X1024.png" trans="ff00ff" width="1280" height="1280"/>
  <tile id="86">
   <objectgroup draworder="index" id="2">

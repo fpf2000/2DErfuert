@@ -14,7 +14,7 @@
             "selectedLayer": 14,
             "viewCenter": {
                 "x": 673,
-                "y": 486
+                "y": 476
             }
         },
         "Bytespeicher.json#bskonf": {
@@ -98,8 +98,8 @@
             "scale": 0.5,
             "selectedLayer": 12,
             "viewCenter": {
-                "x": 787,
-                "y": 3028
+                "x": 781,
+                "y": 3022
             }
         },
         "C:/Users/fpf20/Documents/Projects/wa-event/main.json#EBK_Wall": {
@@ -190,7 +190,7 @@
             "selectedLayer": 4,
             "viewCenter": {
                 "x": 671,
-                "y": 654
+                "y": 650
             }
         },
         "main.json#BytespeicherHaus": {
@@ -268,7 +268,7 @@
             "selectedLayer": 0,
             "viewCenter": {
                 "x": 176.25846795205837,
-                "y": 244.349487580337
+                "y": 239.68038909154075
             }
         },
         "makerspace.json#MS_TILES_ef": {
@@ -294,6 +294,7 @@
             "scaleInEditor": 1
         },
         "makerspace.json#stuff": {
+            "dynamicWrapping": false,
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
@@ -323,14 +324,14 @@
     "project": "Bytespeicher.tiled-project",
     "property.type": "string",
     "recentFiles": [
-        "C:/Users/fpf20/Documents/Projects/wa-event/main.json",
         "Bytespeicher.json",
-        "makerspace.json",
-        "main.json",
-        "BytespeicherHaus.tsx",
         "tilesets/Kram.tsx",
         "tilesets/Erfurt_Grafik.tsx",
         "tilesets/BS_TILES_256X256.tsx",
+        "C:/Users/fpf20/Documents/Projects/wa-event/main.json",
+        "makerspace.json",
+        "main.json",
+        "BytespeicherHaus.tsx",
         "C:/Users/fpf20/Documents/Projects/Bytespeicher_WorkAdventure_RC3/Bytespeicher.json",
         "C:/Users/fpf20/Documents/Projects/Bytespeicher_WorkAdventure_RC3/main.json",
         "erfurt.json"

@@ -75,9 +75,14 @@
                  "name":"exitUrl",
                  "type":"string",
                  "value":"makerspace.json#entrance"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Mehr Rechts Daneben Eintr"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":44,
          "x":0,
          "y":0

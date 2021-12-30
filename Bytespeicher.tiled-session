@@ -13,7 +13,7 @@
             "scale": 0.33,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 451.5151515151516,
+                "x": 216.66666666666663,
                 "y": 689.3939393939394
             }
         },
@@ -201,11 +201,11 @@
             "scaleInDock": 1
         },
         "main.json": {
-            "scale": 2,
-            "selectedLayer": 11,
+            "scale": 0.75,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 508.75,
-                "y": 909.25
+                "x": 368.6666666666667,
+                "y": 907.3333333333333
             }
         },
         "main.json#BSKonfCollid": {
@@ -287,10 +287,10 @@
         },
         "makerspace.json": {
             "scale": 0.75,
-            "selectedLayer": 2,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 254.66666666666663,
-                "y": 300
+                "x": 255.3333333333333,
+                "y": 300.6666666666667
             }
         },
         "makerspace.json#BSKonfCollid": {
@@ -351,9 +351,9 @@
     "project": "Bytespeicher.tiled-project",
     "property.type": "string",
     "recentFiles": [
+        "Bytespeicher.json",
         "main.json",
         "makerspace.json",
-        "Bytespeicher.json",
         "bskonf.tsx",
         "BytespeicherHaus.tsx",
         "bskonfCollid.tsx",

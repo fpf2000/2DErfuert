@@ -16,8 +16,14 @@
          "id":21,
          "name":"start",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":21,
          "x":0,
          "y":0
@@ -71,7 +77,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":21,
          "x":0,
          "y":0

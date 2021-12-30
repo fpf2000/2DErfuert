@@ -7,7 +7,7 @@
     "fileStates": {
         "": {
             "scaleInDock": 1,
-            "scaleInEditor": 0.75
+            "scaleInEditor": 1
         },
         "Bytespeicher.json": {
             "scale": 0.33,
@@ -202,10 +202,10 @@
         },
         "main.json": {
             "scale": 2,
-            "selectedLayer": 12,
+            "selectedLayer": 11,
             "viewCenter": {
-                "x": 229.5,
-                "y": 847.75
+                "x": 508.75,
+                "y": 909.25
             }
         },
         "main.json#BSKonfCollid": {
@@ -351,8 +351,8 @@
     "project": "Bytespeicher.tiled-project",
     "property.type": "string",
     "recentFiles": [
-        "makerspace.json",
         "main.json",
+        "makerspace.json",
         "Bytespeicher.json",
         "bskonf.tsx",
         "BytespeicherHaus.tsx",

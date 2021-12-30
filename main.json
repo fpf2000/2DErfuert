@@ -70,17 +70,6 @@
          "id":23,
          "name":"exit-makerspaceef",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"exitUrl",
-                 "type":"string",
-                 "value":"makerspace.json#entrance"
-                }, 
-                {
-                 "name":"openWebsiteTriggerMessage",
-                 "type":"string",
-                 "value":"Mehr Rechts Daneben Eintr"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":44,

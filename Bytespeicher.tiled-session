@@ -287,7 +287,7 @@
         },
         "makerspace.json": {
             "scale": 0.75,
-            "selectedLayer": 3,
+            "selectedLayer": 17,
             "viewCenter": {
                 "x": 255.3333333333333,
                 "y": 300.6666666666667

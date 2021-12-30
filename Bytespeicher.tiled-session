@@ -202,7 +202,7 @@
         },
         "main.json": {
             "scale": 0.75,
-            "selectedLayer": 3,
+            "selectedLayer": 4,
             "viewCenter": {
                 "x": 368.6666666666667,
                 "y": 907.3333333333333
